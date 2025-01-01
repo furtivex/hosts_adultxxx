@@ -18,8 +18,8 @@ COPY /Y "%CD%\dependencies\%%g" "%WINDIR%" >NUL 2>&1
 SET "hostsD=C:\Windows\System32\drivers\etc"
 IF NOT EXIST "%userprofile%\Documents\GitHub\hosts_adultxxx" MD "%userprofile%\Documents\GitHub\hosts_adultxxx"
 SET "githubD=%userprofile%\Documents\GitHub\hosts_adultxxx"
-title BuildHosts by Furtivex - Version 1.0.2
-ECHO(BuildHosts by Furtivex - Version 1.0.2
+title BuildHosts by Furtivex - Version 1.0.3
+ECHO(BuildHosts by Furtivex - Version 1.0.3
 ECHO.
 ECHO.
 REM ~~~~~~~~~~~~~~~~~~~~~~~~>
@@ -27,7 +27,7 @@ sc stop Dnscache>NUL
 sc config Dnscache start= disabled>NUL
 NIRCMD wait 2000
 GREP -Ev "^#" <"%githubD%\hosts" >"%TEMP%\repairhosts1"
-SED -r "s/\:443$//" <"%TEMP%\repairhosts1" >"%TEMP%\repairhosts2"
+SED -r "s/(0\.0\.0\.0 )?https?:\/\///; s/(\/|:443)$//" <"%TEMP%\repairhosts1" >"%TEMP%\repairhosts2"
 SED -r "/^0\.0\.0\.0/!s/(.*)/0\.0\.0\.0 \1/" <"%TEMP%\repairhosts2" >"%TEMP%\repairhosts3"
 SORT_ -f -u <"%TEMP%\repairhosts3" >"%TEMP%\repairhosts4"
 SED -r "s/\x22//g" <"%TEMP%\repairhosts4" >"%TEMP%\repairhosts5"
