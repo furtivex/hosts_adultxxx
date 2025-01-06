@@ -5,14 +5,14 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  A-lohas.jp
 -  Beeg.porn
 -  BuyMedia Advertising Network
--  ClickAdu / Propeller Ads
+-  ClickAdu // Propeller Ads
 -  Daftporn.com
 -  Daftsex.net
 -  Efukt.com
 -  Freepornvideos.xxx
 -  Fuqq.cam
 -  Fxpornhd.com
--  GoodPorn.se / GoodPorn.to / Goodporno.org
+-  GoodPorn.se // GoodPorn.to // Goodporno.org
 -  Gotporn.com
 -  Hclips.com
 -  Heavy-r.com
@@ -24,7 +24,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  LiveJasmin
 -  Netfapx.com
 -  Noodlemagazine.com
--  Onlyfullporn.video
+-  Onlyfullporn.video // Justfullporn.net
 -  Onlyporn.tube
 -  Peekvids.com
 -  Perverzija.com
@@ -34,7 +34,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Porncide.com
 -  Pornez.cam
 -  Pornflixtor.com
--  Pornhd8k.net / Pornhd8k.me
+-  Pornhd8k.net // Pornhd8k.me
 -  Pornheal.com
 -  Pornhits.com
 -  Pornhub.com
@@ -43,10 +43,10 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Porntn.net
 -  Porntrex.com
 -  Pornve.com
--  Social Media / Miscellaneous / Unknowns / Experimentals
--  Stripchat / Stripcdn
+-  Social Media // Miscellaneous // Unknowns // Experimentals
+-  Stripchat // Stripcdn
 -  Sxyprn.net
--  Syndication / ExoClick / RealSrv / GoAdServer
+-  Syndication // ExoClick // RealSrv // GoAdServer
 -  Terk.nl
 -  Thotsflix.com
 -  Upornia.com

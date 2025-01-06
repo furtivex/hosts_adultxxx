@@ -25,7 +25,7 @@ ECHO.
 REM ~~~~~~~~~~~~~~~~~~~~~~~~>
 sc stop Dnscache>NUL
 sc config Dnscache start= disabled>NUL
-NIRCMD wait 2000
+TIMEOUT /T 2 /NOBREAK >NUL
 GREP -Ev "^#" <"%githubD%\hosts" >"%TEMP%\repairhosts1"
 SED -r "s/(0\.0\.0\.0 )?https?:\/\///; s/(\/|:443)$//" <"%TEMP%\repairhosts1" >"%TEMP%\repairhosts2"
 SED -r "/^0\.0\.0\.0/!s/(.*)/0\.0\.0\.0 \1/" <"%TEMP%\repairhosts2" >"%TEMP%\repairhosts3"
@@ -46,6 +46,6 @@ COPY /Y "%TEMP%\repairhosts1" "%hostsD%\hosts" >NUL 2>&1
 DEL /F/Q "%TEMP%\repairhosts?" >NUL 2>&1
 sc config Dnscache start= auto>NUL
 SC start Dnscache>NUL
-NIRCMD WAIT 2000
+TIMEOUT /T 2 /NOBREAK >NUL
 ipconfig /flushdns >NUL 2>&1
 taskkill /f /im git.exe >NUL 2>&1
