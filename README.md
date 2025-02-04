@@ -9,6 +9,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Daftporn.com
 -  Daftsex.net
 -  Efukt.com
+-  Fikfap.mobi
 -  Freepornvideos.xxx
 -  Fuqq.cam
 -  Fxpornhd.com
