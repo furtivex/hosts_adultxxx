@@ -49,3 +49,4 @@ SC start Dnscache>NUL
 TIMEOUT /T 2 /NOBREAK >NUL
 ipconfig /flushdns >NUL 2>&1
 taskkill /f /im git.exe >NUL 2>&1
+REM SED -r "s/^.*[a-z0-9]{2,}\.([a-z0-9]{3,}\.[a-z]{3,4})$/\1/" <input.txt >output.txt
