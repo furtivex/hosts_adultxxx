@@ -16,11 +16,13 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  GoodPorn.se // GoodPorn.to // Goodporno.org
 -  Gotporn.com
 -  Hclips.com
+-  Hdporn92.com
 -  Heavy-r.com
 -  Hilltop Ads
 -  Hitprn.com
 -  Humoron.com
 -  Internetchicks.com
+-  Jizzberry.com
 -  JuicyAds
 -  LiveJasmin
 -  Netfapx.com
