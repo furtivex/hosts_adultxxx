@@ -2,7 +2,6 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 
 ```
 -  Adsterra Advertising Network
--  A-lohas.jp
 -  Beeg.porn
 -  BuyMedia Advertising Network
 -  ClickAdu // Propeller Ads
