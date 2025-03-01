@@ -74,7 +74,3 @@ Afterwards, you should flush your DNS settings by opening a command prompt windo
 Type the following into the command line window: <b>ipconfig /flushdns</b>
 
 You should now be set for a safer browser experience. :)
-
-If you like my work and wanted to donate, here is the button below. Thank you
-
-[![donate_paypal](https://github.com/user-attachments/assets/aadd1f47-fe6a-4f61-97d4-5f30ff29fc33)](https://www.paypal.com/donate/?hosted_button_id=E68FUAQG2758N)
