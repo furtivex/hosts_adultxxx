@@ -26,6 +26,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  LiveJasmin
 -  Netfapx.com
 -  Noodlemagazine.com
+-  Omg.xxx
 -  Onlyfullporn.video // Justfullporn.net
 -  Onlyporn.tube
 -  Peekvids.com
@@ -40,6 +41,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Pornheal.com
 -  Pornhits.com
 -  Pornhub.com
+-  Pornobae.com
 -  Pornoeggs.com
 -  Pornone.com
 -  Porntn.net
