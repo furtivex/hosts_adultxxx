@@ -40,6 +40,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Pornhd8k.net // Pornhd8k.me
 -  Pornheal.com
 -  Pornhits.com
+-  Pornhoarders.com
 -  Pornhub.com
 -  Pornobae.com
 -  Pornoeggs.com
