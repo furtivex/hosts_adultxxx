@@ -86,6 +86,10 @@ sleep 2
 
 tmpdir=$(mktemp -d)
 
+# Normalize encoding and line endings to UTF-8 text
+dos2unix "$githubD/hosts" 2>/dev/null || \
+tr -d '\r' < "$githubD/hosts" > "$githubD/hosts.tmp" && mv "$githubD/hosts.tmp" "$githubD/hosts"
+
 # Process hosts file
 grep -Ev '^#' "$githubD/hosts" > "$tmpdir/repairhosts1"
 sed -E 's/(0\.0\.0\.0 )?https?:\/\///; s/(\/|:443)$//' "$tmpdir/repairhosts1" > "$tmpdir/repairhosts2"
