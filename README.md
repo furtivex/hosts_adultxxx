@@ -57,7 +57,6 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Upornia.com
 -  Watch.porn
 -  Watchoporn.com
--  Watchporn.to
 -  Xhamster.com
 -  Xnxx.com
 -  Xtapes.to
