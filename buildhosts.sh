@@ -125,7 +125,7 @@ start_dns
 sleep 2
 flush_dns
 
-# Kill git if running
+# Kill git if running BONUS: sudo ufw deny from 172.240.208.0/21
 pkill -f git || true
 
 echo
