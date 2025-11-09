@@ -59,7 +59,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Watchoporn.com
 -  Xhamster.com
 -  Xnxx.com
--  Xtapes.to
+-  Xtapes.to / Xtapes.in
 -  Xvideos.com
 -  Xxvideoss.org
 -  Yespornplease.sexy
