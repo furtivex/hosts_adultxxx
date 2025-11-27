@@ -14,7 +14,6 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Fxpornhd.com
 -  GoodPorn.se // GoodPorn.to // Goodporno.org
 -  Gotporn.com
--  Hclips.com
 -  Hdporn92.com
 -  Heavy-r.com
 -  Hilltop Ads
@@ -55,11 +54,8 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Terk.nl
 -  Thotsflix.com
 -  Upornia.com
--  Watch.porn
--  Watchoporn.com
 -  Xhamster.com
 -  Xnxx.com
--  Xtapes.to / Xtapes.in
 -  Xvideos.com
 -  Xxvideoss.org
 -  Yespornplease.sexy
