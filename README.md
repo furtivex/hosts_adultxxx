@@ -32,6 +32,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Perverzija.com
 -  Playvids.com
 -  Porn.com
+-  Porn00.tv
 -  Pornbuz.com
 -  Porncide.com
 -  Pornez.cam
