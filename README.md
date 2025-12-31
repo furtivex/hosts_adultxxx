@@ -7,6 +7,7 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  ClickAdu // Propeller Ads
 -  Daftporn.com
 -  Daftsex.net
+-  Definebabe.com
 -  Efukt.com
 -  Fikfap.mobi
 -  Freepornvideos.xxx
