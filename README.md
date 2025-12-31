@@ -1,4 +1,12 @@
-This is a host file that aims to block all types of ads, banners, and redirects from specific adult websites. Sites like these are great for harvesting bad / unwanted links so feel free to use the list to add to your own blocklists. If you would like to get a site added / cleaned up, please [create an issue](https://github.com/thisisu/hosts_adultxxx/issues) so I get notified and can work on it.
+This is a hosts file that aims to block advertisements, banners, annoyances, trackers, redirects, and malicious software (limited) from the below list of adult websites
+
+
+
+
+
+
+
+Sites like these are great for harvesting bad / unwanted links so feel free to use the list to add to your own blocklists. If you would like to get a site added / cleaned up, please [create an issue](https://github.com/thisisu/hosts_adultxxx/issues) so I get notified and can work on it.
 
 ```
 -  Adsterra Advertising Network
@@ -66,8 +74,11 @@ This is a host file that aims to block all types of ads, banners, and redirects 
 -  Youporn.com
 
 ```
+Screenshots of with and without hosts file protection:
 
-In order to use this hosts file, you should first back up your existing one located at : <b>C:\Windows\System32\drivers\etc</b>
+<img width="240" height="370" alt="image" src="https://furtivex.net/pics/xxvideo1.png" /><img width="240" height="370" alt="image" src="https://furtivex.net/pics/xxvideo2.png" />
+
+In order to use this hosts file, you should first back up your existing one located at: <b>C:\Windows\System32\drivers\etc</b>
 
 Now download the "hosts" file within this branch and paste it into: <b>C:\Windows\System32\drivers\etc</b>
 
@@ -75,4 +86,6 @@ Afterwards, you should flush your DNS settings by opening a command prompt windo
 
 Type the following into the command line window: <b>ipconfig /flushdns</b>
 
-You should now be set for a safer browser experience. :)
+You should now be set for a safer browsing experience. :)
+
+If looking for more an automated solution to the above, feel free to utilize the BuildHosts.bat (for Windows OS) or buildhosts.sh (for Linux OS) file.
