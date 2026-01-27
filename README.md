@@ -19,7 +19,6 @@ Sites like these are great for harvesting bad / unwanted links so feel free to u
 -  Efukt.com
 -  Fikfap.mobi
 -  Freepornvideos.xxx
--  Fuqq.cam
 -  Fxpornhd.com
 -  GoodPorn.se // GoodPorn.to // Goodporno.org
 -  Gotporn.com
